@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wisteria / Wister / Wist / Wisty / Rin</h1>
 <h3 align="center">A returning Pony Town idler who is mainly roleplaying on Discord!</h3>
+<img align="center" alt="Cyrene" width="400" src="https://tenor.com/view/cyrene-hsr-cyrenehsr-gif-6014520329506801218">
 
 - 🔭 I’m currently working on **new pony town skins, after having deleted all of my old ones for a fresh start.**
 
