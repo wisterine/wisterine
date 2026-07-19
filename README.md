@@ -1,6 +1,9 @@
+<img align="center" alt="Cyrene" src="https://upload-os-bbs.hoyolab.com/upload/2025/11/11/163732817/174ed6dccad2c3ea7ae7c97cdd89dbb4_2818600967167312003.gif">
+
 <h1 align="center">Hi 👋, I'm Wisteria / Wister / Wist / Wisty / Rin</h1>
 <h3 align="center">A returning Pony Town idler who is mainly roleplaying on Discord!</h3>
-<img align="center" alt="Cyrene" src="https://upload-os-bbs.hoyolab.com/upload/2025/11/11/163732817/174ed6dccad2c3ea7ae7c97cdd89dbb4_2818600967167312003.gif">
+
+<img align="right" alt="Cyrene" src="https://media.tenor.com/ptPCBZQzd8kAAAAi/cywife.gif">
 
 - 🔭 I’m currently working on **new pony town skins, after having deleted all of my old ones for a fresh start.**
 
