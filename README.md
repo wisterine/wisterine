@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Wisteria / Wister / Wist / Wisty / Rin</h1>
+<h3 align="center">A returning Pony Town idler who is mainly roleplaying on Discord!</h3>
 
-<!--
-**wisterine/wisterine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **new pony town skins, after having deleted all of my old ones for a fresh start.**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **color theory and literary writing**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking forward to **making new friends and reuniting with my old ones!**
+
+- 🤝 I’m looking for help with **shading tips for my skins**
+
+- 💬 Ask me about **my favorite fandoms and anything, as long as it's not sensitive information**
+
+- 📫 How to reach me **wisterine on Discord**
+
+- ⚡ Fun fact **you're amazing! ⭐**
+
+</p>
